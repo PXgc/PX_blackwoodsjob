@@ -5,7 +5,7 @@ Black Wood Job / RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Preview : https://youtu.be/ZVden6sl03o
 
-#### Lien vers le mapping : https://www.mediafire.com/file/7al7akaof4ad4kp/mapping_saloon.zip/file
+#### Lien vers le mapping : https://www.mediafire.com/file/6ae8ywctzut1q4i/mapping_saloon.zip/file
 
 ### Screenshot :
 
